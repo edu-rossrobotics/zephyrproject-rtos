@@ -1,0 +1,8 @@
+board:
+  name: rr
+  full_name: RossRobotics
+  vendor: rossrobotics
+  socs:
+  - name: rp2040
+    variants:
+    - name: w
